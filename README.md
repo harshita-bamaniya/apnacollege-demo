@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git Respository.
 <br>
-Author - Harshita Bamaniya
+Author - Harshita Bamaniya(Student)
